@@ -1,0 +1,12 @@
+{
+    "name": "pmgarman/laravel-wordpress-auth",
+    "description": "A WordPress auth driver for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrick Garman",
+            "email": "patrick@garman.io"
+        }
+    ],
+    "require": {}
+}
